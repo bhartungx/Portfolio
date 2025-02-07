@@ -18,7 +18,7 @@
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><a href="https://github.com/yourusername/project1">Project 1</a> - Description of Project 1</li>
+            <li><a href="[https://github.com/yourusername/project1](https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg)">Project 1</a> - Description of Project 1</li>
             <li><a href="https://github.com/yourusername/project2">Project 2</a> - Description of Project 2</li>
             <!-- Add more projects here -->
         </ul>
@@ -26,20 +26,18 @@
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>React</li>
+            <li>ArcGIS Pro</li>
+            <li>Data Analysis</li>
+            <li>Spanish</li>
             <!-- Add more skills -->
         </ul>
     </section>
-
     <section id="contact">
         <h2>Contact</h2>
-        <p>Email me at <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Email me at <a href="mailto:bridgethartung.bh@gmail.com">your.email@example.com</a></p>
     </section>
-
     <footer>
-        <p>© 2025 Your Name. All rights reserved.</p>
+        <p>© 2025 Bridget Hartung.</p>
     </footer>
 </body>
 </html>
