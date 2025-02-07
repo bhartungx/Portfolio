@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
+    <title>My Portfolio</title> <!-- Add the title inside the <title> tags -->
     <style>
-       /* Adding some simple styles */
+        /* Adding some simple styles */
         #projects {
             display: flex;
             flex-wrap: wrap;
