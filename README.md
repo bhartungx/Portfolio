@@ -1,13 +1,10 @@
 
-[newreadme.html  ](https://github.com/bhartungx/Portfolio/blob/bd573f80d8ecad90003a795520b892b131e4e602/newreadme.html)
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title> <!-- Add the title inside the <title> tags -->
+    <title> My Portfolio </title> <!-- Add the title inside the <title> tags -->
     <style>
         /* Adding some simple styles */
         #projects {
