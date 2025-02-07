@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-</head>
+
 <body>
     <header>
         <h1>Bridget Hartung</h1>
