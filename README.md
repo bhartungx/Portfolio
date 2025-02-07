@@ -18,7 +18,7 @@
     <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><a href="(https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">Project 1</a> - Description of Project 1</li>
+            <li><a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">Project 1</a> - Description of Project 1</li>
             <li><a href="https://github.com/yourusername/project2">Project 2</a> - Description of Project 2</li>
             <!-- Add more projects here -->
         </ul>
