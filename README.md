@@ -18,7 +18,7 @@
   <section id="projects">
     <h2>Projects</h2>
     <div class="project">
-        <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target="_blank">
+        <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target"https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">
             <img src="project1-image.jpg" alt="Project 1">
             <div class="Income and Brownfield Sites in Tampa">
                 <h3>Project 1</h3>
@@ -30,7 +30,7 @@ There are many greener measures that can be taken, such as rerouting or repurpos
         </a>
     </div>
     <div class="project">
-        <a href="project2-details.html" target="_blank">
+        <a href="project2-details.html" target="">
             <img src="project2-image.jpg" alt="Project 2">
             <div class="caption">
                 <h3>Project 2</h3>
