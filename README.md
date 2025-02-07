@@ -1,8 +1,20 @@
-
-<body>
-    <header>
-        <h1>Bridget Hartung</h1>
-        <p>Welcome to my portfolio! Here you can see some work samples created within the last 8 months. Thanks for taking a look-I hope you enjoy! </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        /* This is your internal CSS */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        <body>
+            <header>
+            <h1>Bridget Hartung</h1>
+            <p>Welcome to my portfolio! Here you can see some work samples created within the last 8 months. Thanks for taking a look-I hope you enjoy! </p>
     </header>
     <section id="about">
         <h2>About Me</h2>
