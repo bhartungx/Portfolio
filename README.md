@@ -4,7 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     My Portfolio
-    <link rel="stylesheet" href="style.css">
+<style>
+        /* Adding some simple styles */
+        #projects {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .project {
+            margin: 20px;
+            width: 300px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        /* Here’s the code that makes your image smaller and adds a border */
+        .project img {
+            width: 50%; /* Image takes up all available space */
+            max-width: 300px; /* Limit size to 300px wide */
+            height: auto; /* Keeps the image shape right */
+            border: 5px solid #333; /* Solid black border around image */
+            border-radius: 8px; /* Rounded corners for the border */
+        }
+        /* Caption styling */
+        .caption {
+            padding: 10px;
+            background-color: #fff;
+            color: #333;
+        }
+        .caption h3 {
+            font-size: 1.2rem;
+            margin: 10px 0;
+        }
+        .caption p {
+            font-size: 1rem;
+            color: #666;
+        }
+    </style>
 </head>
 <body>
     <header>
