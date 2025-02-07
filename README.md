@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
+     <link rel="stylesheet" href="styles.css">  <!-- Link to your CSS -->
             <header>
             <h1>Bridget Hartung</h1>
             <p>Welcome to my portfolio! Here you can see some work samples created within the last 8 months. Thanks for taking a look-I hope you enjoy! </p>
