@@ -25,10 +25,10 @@ There are many greener measures that can be taken, such as rerouting or repurpos
         </a>
     </div>
     <div class="project">
-        <a href="project2-details.html" target="">
-            <img src="project2-image.jpg" alt="Project 2">
+        <a href="https://github.com/bhartungx/Portfolio/blob/main/suitabilityScale_HQ.png" target="https://github.com/bhartungx/Portfolio/blob/main/suitabilityScale_HQ.png">
+            <img src="https://github.com/bhartungx/Portfolio/blob/main/suitabilityScale_HQ.png" alt="Project 2">
             <div class="caption">
-                <h3>HW Suitability Score</h3>
+                <h3>HQ Suitability Score</h3>
                 <p>This map shows 5 potential sites for a business HQ in Burlington, VA, ranking their suitability from least to greatest. This suitability analysis was performed using the suitability scale tool in ArcGIS Pro and considered factors such as proximity to major roads, elevation, and nearness specified land categories.
 I produced this map by following along with coursework from the Spatial Data Analysis MOOC by Esri.</p>
             </div>
