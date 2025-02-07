@@ -18,9 +18,10 @@
   <section id="projects">
     <h2>Projects</h2>
     <div class="project">
-        <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target"https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">
+        <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target             
+        "https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">
             <img src="project1-image.jpg" alt="Project 1">
-            <div class="Income and Brownfield Sites in Tampa">
+            <div class="Income https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpgnd Brownfield Sites in Tampa">
                 <h3>Project 1</h3>
                 <p>Every year, an estimated 30-40% of food in the US goes in the trash. This amounts to around 60 million TONS per year. This map shows my local area, Pinellas and Hillsborough counties, and their food waste in tons. There are several composting programs, and this map details the net food waste, excluding waste that is composted.
 Especially in Pinellas County, landfill space is scare. 80% of waste is incinerated and used to power homes. However, the remaining waste is exported to a landfill that is expected to fill within 80 years, with no potential new landfill locations to be found.
