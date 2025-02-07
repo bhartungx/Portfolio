@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Bridget Hartung- Portfolio
+    My Portfolio
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>Bridget Hartung</h1>
         <p>Welcome to my portfolio! Here you can see some work samples created within the last 8 months. Thanks for taking a look-I hope you enjoy! </p>
     </header>
     <section id="about">
