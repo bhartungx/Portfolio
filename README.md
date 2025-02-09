@@ -13,12 +13,22 @@
         <p>I'm an early career environmental scientist with a focus on GIS. I received my Bachelor's of Science from USF with 2 minors, GIS and Spanish. I have 2 years of experience with ArcGIS Pro, and enjoy creating maps about local environmental issues. My goal is to work in environmental consulting and assist in implementation of and compliance with sustainable policies, design, and resource management. Eventually I wish to work in resource management and sustainability, leveraging my environmental experience with my passion for education to improve understanding of environmental processes to adults and youth. I'm proficient in Spanish and have successfully taught English to Spanish speakers at a community library program and as well as traveled in Spanish speaking countries. I'm passionate about education on all levels, and tutor in my free time.</p>
     </section>
   <section id="projects">
-    <h2>Projects</h2>
-    <div class="project">
-        <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target             
-        "https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg">
-            <img src="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" alt="Project 1">
-         <div class="caption">
+      <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Individual Project -->
+        <div class="project">
+            <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target="_blank">
+                <img src="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" alt="Project 1">
+            </a>
+            <div class="caption">
+                <p>Project 1: Brownfield Paper</p>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
                  <h3>Income and Brownfield Sites in Tampa</h3>
                 <p>Every year, an estimated 30-40% of food in the US goes in the trash. This amounts to around 60 million TONS per year. This map shows my local area, Pinellas and Hillsborough counties, and their food waste in tons. There are several composting programs, and this map details the net food waste, excluding waste that is composted.
 Especially in Pinellas County, landfill space is scare. 80% of waste is incinerated and used to power homes. However, the remaining waste is exported to a landfill that is expected to fill within 80 years, with no potential new landfill locations to be found.
