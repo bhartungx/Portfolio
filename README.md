@@ -48,7 +48,7 @@ I produced this map by following along with coursework from the Spatial Data Ana
             </div>
         </a>
     </div>
-    <h4>Projec</h4>
+    <h4></h4>
         <!-- Individual Project -->
         <div class="project">
             <a href="https://github.com/bhartungx/Portfolio/blob/main/recycle_potential_hillsborough_pinellas.jpg" target="https://github.com/bhartungx/Portfolio/blob/main/recycle_potential_hillsborough_pinellas.jpg">
