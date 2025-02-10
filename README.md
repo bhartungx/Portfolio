@@ -18,8 +18,8 @@
         <h2>Projects</h2>
         <!-- Individual Project -->
         <div class="project">
-            <a href="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" target="_blank">
-                <img src="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" alt="Project 1">
+            <a href=""C:\GIS portfolio\brownfield_paper.jpg"" target="_blank">
+                <img src=""C:\GIS portfolio\brownfield_paper.jpg"" alt="Project 1">
             </a>
             <div class="caption">
                 <p>Project 1: Brownfield Paper</p>
