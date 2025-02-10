@@ -22,7 +22,7 @@
                 <img src="https://github.com/bhartungx/Portfolio/blob/main/brownfield_paper.jpg" alt="Project 1">
             </a>
             <div class="caption">
-                <p>Project 1: Brownfield Paper</p>
+                <p></p>
             </div>
         </div>
     </section>
@@ -55,7 +55,7 @@ I produced this map by following along with coursework from the Spatial Data Ana
                 <img src="https://github.com/bhartungx/Portfolio/blob/main/recycle_potential_hillsborough_pinellas.jpg" alt="Project 3">
             </a>
             <div class="caption">
-                <p>Project 3: Landfilled Food Waste in Florida </p>
+                <p> </p>
             </div>
         </div>
     </section>
